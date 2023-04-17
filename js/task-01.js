@@ -1,8 +1,6 @@
 const liItem = document.querySelectorAll("#categories .item");
 
 let categoriesNumber = console.log(`Number of categories: ${liItem.length}`);
-let header;
-let listItemsCount;
 
 for (let i = 0; i < liItem.length; i++) {
 	let header = liItem[i].querySelector("h2").textContent;
