@@ -8,21 +8,3 @@ for (let i = 0; i < liItem.length; i++) {
 	console.log(`Category: ${header}
     Elements ${listItemsCount}`);
 }
-
-// console.log(categoriesNumber);
-
-// const h2Type = document.querySelectorAll("#categories li.item h2");
-
-// spr
-// const h2Type = document.querySelectorAll("h2");
-
-// const h2TypeArray = [...h2Type];
-
-// function pick() {
-// 	console.log(categoriesNumber);
-// 	h2TypeArray.forEach((type) => console.log(type));
-// }
-// pick();
-
-// const elements = document.querySelectorAll(".item ul li");
-// console.log(elements);
